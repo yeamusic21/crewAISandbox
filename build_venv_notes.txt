@@ -1,0 +1,3 @@
+pip install crewai
+pip install crewai_tools
+pip install langchain_community==0.0.29
